@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://westsacramentorestoration.com/sitemap.xml
